@@ -1,7 +1,7 @@
-package org.itstep.msk.cars.city;
+package org.itstep.msk.Patterns.cars.city;
 
-import org.itstep.msk.builders.Builder;
-import org.itstep.msk.cars.CarType;
+import org.itstep.msk.Patterns.builders.Builder;
+import org.itstep.msk.Patterns.cars.CarType;
 
 public class BMWCityCar implements CityCar {
     @Override

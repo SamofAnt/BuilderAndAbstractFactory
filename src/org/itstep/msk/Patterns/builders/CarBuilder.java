@@ -1,7 +1,7 @@
-package org.itstep.msk.builders;
+package org.itstep.msk.Patterns.builders;
 
-import org.itstep.msk.cars.Car;
-import org.itstep.msk.cars.CarType;
+import org.itstep.msk.Patterns.cars.Car;
+import org.itstep.msk.Patterns.cars.CarType;
 public class CarBuilder implements Builder {
     private CarType type;
     private int seats;

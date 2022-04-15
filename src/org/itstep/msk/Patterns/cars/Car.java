@@ -1,11 +1,11 @@
-package org.itstep.msk.cars;
+package org.itstep.msk.Patterns.cars;
 
 public class Car {
     private final CarType carType;
     private final int seats;
-    private String model;
+    private final String model;
     private final String engine;
-    private int amountDoors;
+    private final int amountDoors;
 
     public Car(CarType carType, int seats, String model,String engine, int amountDoors) {
         this.carType = carType;

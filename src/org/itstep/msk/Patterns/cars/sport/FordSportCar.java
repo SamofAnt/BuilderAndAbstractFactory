@@ -1,7 +1,7 @@
-package org.itstep.msk.cars.sport;
+package org.itstep.msk.Patterns.cars.sport;
 
-import org.itstep.msk.builders.Builder;
-import org.itstep.msk.cars.CarType;
+import org.itstep.msk.Patterns.builders.Builder;
+import org.itstep.msk.Patterns.cars.CarType;
 
 public class FordSportCar implements SportCar{
     @Override
